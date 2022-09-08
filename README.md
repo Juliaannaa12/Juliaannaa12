@@ -1,5 +1,5 @@
 - # Sobre mim &#127826;
--  &#127827; Hi, I’m @Juliaannaa12
+-  &#127827; Olá, eu sou **@Julia**
 - &#127827; Estou interessado em aprender novas linguagens de programação
 - &#127827; Estou recentemente aprendendo a programar recentemente a linguagem do JavaScript e Scratch
 - &#128204; How to reach me/ silva.julia12@escoa.pr.gov.br
