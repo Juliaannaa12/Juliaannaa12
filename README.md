@@ -1,11 +1,11 @@
 - # Sobre mim &#127826;
 -  &#127827; Hi, I’m @Juliaannaa12
-- &#127827; I’m interested in ...
-- &#127827; I’m currently learning ...
-- &#127827; I’m looking to collaborate on ...
+- &#127827; Estou interessado em aprender novas linguagens de programação
+- &#127827; Estou recentemente aprendendo a programar recentemente a linguagem do JavaScript e Scratch
 - &#128204; How to reach me/ silva.julia12@escoa.pr.gov.br
 
-<!---
-Juliaannaa12/Juliaannaa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
